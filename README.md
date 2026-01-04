@@ -9,3 +9,6 @@
 4. pip install -r requirements.txt ile gerekli kütüphaneleri kurulumu
 
 5. python main.py  ile programı çalıştır
+
+6. MÜHENDİSLİKTE BİLGİSAYAR UYGULAMALARI I DERSİ İÇİN YAPILMIŞTIR.
+   
